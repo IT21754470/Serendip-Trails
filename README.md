@@ -10,7 +10,7 @@
 
 ![Image](https://github.com/user-attachments/assets/253103a0-1a71-4f5d-b1a9-538c837ee262)
 
-# TRP Organization Website
+# TRIP Organization Website(Serendip Trails)
 
 A modern, responsive website for TRP Organization, a travel and recreation service provider in Sri Lanka. Built with Next.js, TypeScript, and Tailwind CSS.
 
